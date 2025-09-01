@@ -20,7 +20,7 @@ export default function App() {
 
   return (
     <KeyboardAvoidingView behavior="padding" style={styles.container}>
-      <Image source={require('./assets/f.png')} style={styles.fundo} />
+      <Image source={require('./assets/r.png')} style={styles.fundo} />
 
       <Text style={styles.titulo}></Text>
 
